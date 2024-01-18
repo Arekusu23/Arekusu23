@@ -2,9 +2,11 @@
 ### Hi there 👋
 
 -- Español --
+
 Tengo experiencia desarrollando proyectos académicos en múltiples lenguajes de programación, de los cuales tengo como favoritos Java y Javascript. Tengo la facilidad de adaptarme a cualquier lenguaje requerido, aplicado, sin vicios y únicamente enfocado en terminar mis estudios.
 
 -- English --
+
 Got developement experience in academic projects with many programming languages, my favorites are Java and Javascript. I have adaptability to any language, i'm dilligent, no habits and focused to finish my university degree.
 <!--
 **Arekusu23/Arekusu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
